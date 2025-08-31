@@ -1,0 +1,8 @@
+BEST SPAM FILTER PERFORMANCE REPORT
+=============================================
+
+Best Model: Tuned Logistic Regression
+Accuracy:  0.9839
+Precision: 0.9580
+Recall:    0.9195
+F1-Score:  0.9384
